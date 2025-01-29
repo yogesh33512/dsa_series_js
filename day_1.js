@@ -36,3 +36,6 @@ function main() {
 }
 
 console.log(main())
+
+// Time Complexity 
+
